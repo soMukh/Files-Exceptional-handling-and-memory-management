@@ -1,0 +1,4 @@
+Hi, I am Soham.
+Hi, I love to code in Python.
+Hi, I am learning Data Analytics.
+Hi, I'll like to learn Data Science.

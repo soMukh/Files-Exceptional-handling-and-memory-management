@@ -1,0 +1,4 @@
+2025-04-05 16:16:14,283:INFO:Numerator entered: 10
+2025-04-05 16:16:15,239:INFO:Denominator entered: 0
+2025-04-05 16:16:15,242:WARNING:Denominator is zero, division by zero will occur.
+2025-04-05 16:16:15,242:ERROR:Division by zero is not allowed.

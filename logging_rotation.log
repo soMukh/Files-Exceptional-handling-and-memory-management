@@ -1,0 +1,3 @@
+2025-04-05 16:16:53,528:INFO:Numerator entered: 10
+2025-04-05 16:16:54,528:INFO:Denominator entered: 0
+2025-04-05 16:16:54,529:ERROR:Division by zero is not allowed.
